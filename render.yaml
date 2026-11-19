@@ -20,7 +20,7 @@ services:
       - key: PAPER_CHANNEL
         value: default
       - key: MEMORY
-        value: 256M
+        value: 384M
       - key: INIT_MEMORY
         value: 128M
       - key: MAX_MEMORY
